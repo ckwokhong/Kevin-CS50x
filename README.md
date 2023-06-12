@@ -14,8 +14,8 @@ Course Curriculum:
 - Week 0 Scratch (Completed)
 - Week 1 C (Completed)
 - Week 2 Arrays (Completed)
-- Week 3 Algorithms (In-Progress)
-- Week 4 Memory
+- Week 3 Algorithms (Completed)
+- Week 4 Memory (In-Progress)
 - Week 5 Data Structures
 - Week 6 Python
 - Week 7 SQL
