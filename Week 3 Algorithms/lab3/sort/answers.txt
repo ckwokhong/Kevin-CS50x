@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: In reversed50000.txt, the algorithm took a relatively longer time to run as compared to sort2. (N^2)
+
+sort2 uses: Merge Sort
+
+How do you know?: Sort2 took roughly the same time to complete the sort for all of the scenarios. (n*logn)
+
+sort3 uses: Selection sort
+
+How do you know?: Time taken for best-case, average and worst case scenarios all took the same time. (N^2)
